@@ -5,6 +5,15 @@
     --white-color: #dff3e4;
 
 }
+.odd{
+    font-weight: 100%;
+
+}
+
+.even{
+    font-weight: bold;
+    font-size: large;
+}
 body{
     color:var(--dark-color);
 }
@@ -35,7 +44,7 @@ footer .social>a:hover{
 
 }
 .jsicon{
-    color: yellow;
+    color: rgb(245, 245, 105);
 }
 
 .html5icon{
@@ -54,7 +63,9 @@ code[class*="language-"],
     word-break: break-all;
     word-wrap: break-word;
 }
-
+.logofont{
+    font-family: 'Racing Sans One', cursive;
+}
 
 main>.container {
            padding: 60px 15px 0;
